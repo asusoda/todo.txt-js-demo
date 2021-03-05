@@ -1,0 +1,13 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jstodotxt": "^0.9.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
